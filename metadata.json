@@ -1,0 +1,5 @@
+{
+  "name": "The Contrarian",
+  "description": "An application that takes a current event or topic and provides different approaches, opinions, and facts, leveraging Gemini with Google Search grounding to explore every angle of the story.",
+  "requestFramePermissions": []
+}
